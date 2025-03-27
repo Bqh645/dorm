@@ -1,0 +1,1 @@
+請將 'dorm_structure_with_furniture.glb' 放入此資料夾，與 index.html 同一層。
